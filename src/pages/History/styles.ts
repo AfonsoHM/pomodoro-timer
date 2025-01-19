@@ -49,6 +49,7 @@ export const HistoryList = styled.div `
       padding: 1rem;
       line-height: 1.6rem;
 
+
       &:first-child {
         width: 50%;
         padding-left: 1.5rem;
