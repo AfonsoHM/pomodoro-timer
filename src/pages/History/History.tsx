@@ -9,7 +9,7 @@ export function History() {
 
   return (
     <HistoryContainer> 
-      <h1>Meu histórico</h1>bbb
+      <h1>Meu histórico</h1>
 
       <HistoryList>
         <table>
